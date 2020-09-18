@@ -1,3 +1,4 @@
 h=!
 f=hi
-print(h)
+c= people
+print(f,c,h)
